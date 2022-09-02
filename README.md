@@ -34,4 +34,5 @@ Jupyter Notebook, MS-Excel, MS-Power BI
 - Client retention in 2014 was subpar
 - 2016 brought about a slight improvement in retention
 ## LinkedIn Post 📲
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6971406322663600128/)
 ## Youtube Video 🎬
