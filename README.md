@@ -1,7 +1,7 @@
 
 ## Power BI Report
 
-![App Screenshot](https://user-images.githubusercontent.com/69301816/188057670-e81f6344-c861-40c2-874f-951a8f7ca82d.jpg)
+![App Screenshot](https://user-images.githubusercontent.com/69301816/188106928-b99477b3-d8ce-4f5a-828f-4aa63dd7c58c.jpg)
 ## Objective 🎯
 The goal of this project is to analyse the sales budget data, extract necessary information about Products and Customers based on a combination of features and make a dashboard to review the performance of the company.
 ## Dataset 📀
