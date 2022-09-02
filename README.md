@@ -18,8 +18,6 @@ Python, DAX and Power Query M
 ## Tools 🛠
 Jupyter Notebook, MS-Excel, MS-Power BI
 ## Conclusion 💡
-- 37% of customers ordered more than once
-- Majority of the customers ordered only once
 - A sizable portion of the clientele is made up of people between the ages of 40 and 59
 - The year 2016 saw an exponential surge in sales
 - High quantity of products is ordered from Australia and United States
