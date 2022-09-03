@@ -1,11 +1,16 @@
 
-## Power BI Report
-
-![App Screenshot](https://user-images.githubusercontent.com/69301816/188106928-b99477b3-d8ce-4f5a-828f-4aa63dd7c58c.jpg)
 ## Objective 🎯
 The goal of this project is to analyse the sales budget data, extract necessary information about Products and Customers based on a combination of features and make a dashboard to review the performance of the company.
+## Problem statement 📜
+- Do ETL : Extract-Transform-Load dataset
+- Perform EDA through python
+- Extract various information such as Sales, budget, variance
+- Extract necessary information about Products and Customers
+- Make necessary dashboard
+- Find key metrics and factors and show the meaningful relationships between attributes
+
 ## Dataset 📀
-[Data source link](https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3Y-Q8)
+[Adventure-Works Data](https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3Y-Q8)
 
 ## Technology �
 Business Intelligence
@@ -17,6 +22,11 @@ Advanced
 Python, DAX and Power Query M
 ## Tools 🛠
 Jupyter Notebook, MS-Excel, MS-Power BI
+## Approach (Architecture) ⚙
+
+![App Screenshot](https://user-images.githubusercontent.com/69301816/188267851-c97efbe7-dfb3-4a08-8d01-bec4d81f5843.JPG)
+## Glimpse of the Dashboard 🎥
+![screenshot](https://user-images.githubusercontent.com/69301816/188271334-a7446448-2b97-4dfe-8f96-26f2b655f554.gif)
 ## Conclusion 💡
 - A sizable portion of the clientele is made up of people between the ages of 40 and 59
 - The year 2016 saw an exponential surge in sales
