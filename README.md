@@ -1,6 +1,8 @@
+## Glimpse of the Dashboard 🎥
+![screenshot](https://user-images.githubusercontent.com/69301816/188271334-a7446448-2b97-4dfe-8f96-26f2b655f554.gif)
 
 ## Objective 🎯
-The goal of this project is to analyse the sales budget data, extract necessary information about Products and Customers based on a combination of features and make a dashboard to review the performance of the company.
+The goal of this project is to analysis the sales budget data, extract necessary information about Products and Customers based on a combination of features and make a dashboard to review the performance of the company.
 ## Problem statement 📜
 - Do ETL : Extract-Transform-Load dataset
 - Perform EDA through python
@@ -24,9 +26,8 @@ Python, DAX and Power Query M
 Jupyter Notebook, MS-Excel, MS-Power BI
 ## Approach (Architecture) ⚙
 
-![App Screenshot](https://user-images.githubusercontent.com/69301816/188267851-c97efbe7-dfb3-4a08-8d01-bec4d81f5843.JPG)
-## Glimpse of the Dashboard 🎥
-![screenshot](https://user-images.githubusercontent.com/69301816/188271334-a7446448-2b97-4dfe-8f96-26f2b655f554.gif)
+![App Screenshot](https://user-images.githubusercontent.com/69301816/188277362-3fe42c14-97a2-437e-bb96-4d0c812d0136.JPG)
+
 ## Conclusion 💡
 - A sizable portion of the clientele is made up of people between the ages of 40 and 59
 - The year 2016 saw an exponential surge in sales
@@ -43,6 +44,27 @@ Jupyter Notebook, MS-Excel, MS-Power BI
 - According to the customer segmentation described above, approximately 15% of our clients are high value clients, whereas the majority of our clientele are low value and lost clients
 - Client retention in 2014 was subpar
 - 2016 brought about a slight improvement in retention
+
+## 📖 Documentation
+
+[High Level Documentation](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/01.High%20Level%20Design.pdf)
+
+[Low Level Documentation](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/02%20Low%20Level%20Design.pdf)
+
+[Architecture Documentation](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/03%20Architecture.pdf)
+
+[WireFrame](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/04%20Wireframe.pdf)
+
+[Detail Project Report](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/05%20Detailed%20Project%20Report.pdf)
+
+## 🎉 Help Me Improve
+Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap
+
 ## LinkedIn Post 📲
 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6971406322663600128/)
+
 ## Youtube Video 🎬
+[Video post](https://youtu.be/yeucgBmRu0Q)
+
+## 📫 Feedback
+If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishek-doke/)
